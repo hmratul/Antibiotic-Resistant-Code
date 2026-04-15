@@ -1,4 +1,4 @@
-# Antibiotic-Resistant-Code
+# Antibiotic-Resistant-Code by J25
 1. Project Overview & Environment Setup
 Objective: The project aims to identify new growth-inhibitory molecules against E. coli using a deep learning pipeline, specifically a Directed Message Passing Neural Network (D-MPNN).
 
