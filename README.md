@@ -1,6 +1,6 @@
 # Antibiotic-Resistant-Code by J25
 1. Project Overview & Environment Setup
-Objective: The project aims to identify new growth-inhibitory molecules against E. coli using a deep learning pipeline, specifically a Directed Message Passing Neural Network (D-MPNN).
+Objective: The project aims to identify new growth-inhibitory molecules against E. coli using a deep learning pipeline, specifically a Directed Message Passing Neural Network (D-MPNN), FNN model training.
 
 Tech Stack: The workflow utilizes RDKit for chemical informatics, the ChEMBL API for data retrieval, and Chemprop for training the deep learning model.
 
